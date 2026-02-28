@@ -1,0 +1,160 @@
+[
+  {
+    "id": "jacobsen2021",
+    "DOI": "10.1109/TVCG.2020.3030475",
+    "ISSN": "1077-2626, 1941-0506, 2160-9306",
+    "URL": "http://arxiv.org/abs/2008.09367",
+    "accessed": {
+      "date-parts": []
+    },
+    "arxiv": "2008.09367 [cs]",
+    "arxiv:2008.09367": "arXiv",
+    "author": [
+      {
+        "family": "Jacobsen",
+        "given": "Ben"
+      },
+      {
+        "family": "Wallinger",
+        "given": "Markus"
+      },
+      {
+        "family": "Kobourov",
+        "given": "Stephen"
+      },
+      {
+        "family": "Nöllenburg",
+        "given": "Martin"
+      }
+    ],
+    "container-title": "IEEE Transactions on Visualization and Computer Graphics",
+    "container-title-short": "IEEE Trans. Visual. Comput. Graphics",
+    "issue": "2",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          2
+        ]
+      ]
+    },
+    "key": "GNP536BX",
+    "libraryid": "1",
+    "page": "1257-1267",
+    "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+    "source": "arXiv.org",
+    "title": "MetroSets: Visualizing Sets as Metro Maps",
+    "title-short": "MetroSets",
+    "type": "article-journal",
+    "volume": "27"
+  },
+  {
+    "id": "nöllenburg2006",
+    "DOI": "10.1007/11618058_29",
+    "ISBN": "978-3-540-31425-7 978-3-540-31667-1",
+    "URL": "http://link.springer.com/10.1007/11618058_29",
+    "accessed": {
+      "date-parts": []
+    },
+    "author": [
+      {
+        "family": "Nöllenburg",
+        "given": "Martin"
+      },
+      {
+        "family": "Wolff",
+        "given": "Alexander"
+      }
+    ],
+    "collection-editor": [
+      {
+        "family": "Hutchison",
+        "given": "David"
+      },
+      {
+        "family": "Kanade",
+        "given": "Takeo"
+      },
+      {
+        "family": "Kittler",
+        "given": "Josef"
+      },
+      {
+        "family": "Kleinberg",
+        "given": "Jon M."
+      },
+      {
+        "family": "Mattern",
+        "given": "Friedemann"
+      },
+      {
+        "family": "Mitchell",
+        "given": "John C."
+      },
+      {
+        "family": "Naor",
+        "given": "Moni"
+      },
+      {
+        "family": "Nierstrasz",
+        "given": "Oscar"
+      },
+      {
+        "family": "Pandu Rangan",
+        "given": "C."
+      },
+      {
+        "family": "Steffen",
+        "given": "Bernhard"
+      },
+      {
+        "family": "Sudan",
+        "given": "Madhu"
+      },
+      {
+        "family": "Terzopoulos",
+        "given": "Demetri"
+      },
+      {
+        "family": "Tygar",
+        "given": "Dough"
+      },
+      {
+        "family": "Vardi",
+        "given": "Moshe Y."
+      },
+      {
+        "family": "Weikum",
+        "given": "Gerhard"
+      }
+    ],
+    "container-title": "Graph Drawing",
+    "editor": [
+      {
+        "family": "Healy",
+        "given": "Patrick"
+      },
+      {
+        "family": "Nikolov",
+        "given": "Nikola S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "key": "LPAE5JLS",
+    "libraryid": "1",
+    "page": "321-333",
+    "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+    "publisher": "Springer Berlin Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "source": "DOI.org (Crossref)",
+    "title": "A Mixed-Integer Program for Drawing High-Quality Metro Maps",
+    "type": "chapter",
+    "volume": "3843"
+  }
+]
